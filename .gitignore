@@ -1,0 +1,11 @@
+# Cocos Creator 忽略列表
+library/
+local/
+temp/
+build/
+native/
+profiles/
+bin/
+jsconfig.json
+tsconfig.json
+.DS_Store
